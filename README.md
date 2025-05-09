@@ -1,6 +1,6 @@
 # ⚾ Momentum Shift Score (MSS)
 
-**Momentum Shift Score (MSS)** is a novel, player-specific baseball analytics metric that captures the psychological and statistical impact of key moments in games. It helps quantify how a pivotal play—like a walk-off homer or a blown save—can alter a player's future performance, as well as shape public narrative and team momentum.
+**Momentum Shift Score (MSS)** is a novel, player-specific baseball analytics metric that captures the psychological and statistical impact of key moments in games. It helps quantify how a pivotal play, like a walk-off homer or a blown save, can alter a player's future performance.
 
 ---
 
@@ -29,12 +29,4 @@
 - **Python / Jupyter Notebook**
 - **Pandas, NumPy, Scikit-Learn** for data analysis and modeling
 - **Matplotlib / Seaborn / Plotly** for data visualization
-- **BeautifulSoup, Requests, Newspaper3k** for media scraping
-- **NLTK / spaCy / Vader** for sentiment and narrative analysis
-- **Statcast / Baseball Savant APIs** for advanced MLB data
-- **PostgreSQL** for persistent stat storage
-
----
-
-## 📁 Project Structure
 
