@@ -9,6 +9,9 @@
 ## 🧠 Project Goals
 
 - **Create a predictive, player-specific metric** that reflects the impact of pivotal moments in baseball.
+      - Pete Alonso HR vs Devin Williams - 2024 NL Wild Card
+      - Freddy Freeman Walk Off Grand Slam vs Nestor Cortes - 2024 World Series
+      - Jose Altuve Walk Off HR vs Aroldis Chapman - 2017 ALCS
 - **Assist analysts and scouts** in identifying potential breakout or fall-off points in a player's season.
 - **Capture narrative context** using data and media sentiment to enhance traditional stats.
 - **Deliver a transparent, explainable tool** in a Jupyter Notebook format with rich visualizations and case studies.
